@@ -34,3 +34,8 @@ Key Features:
 
 This project offers valuable insights into the behavior of deep learning models when faced with OOD data. It highlights the challenges of creating robust, generalizable embeddings and the complexities involved in choosing appropriate classification thresholds for both seen and unseen classes.
 
+
+
+Credits:
+deeplake
+activeloop
