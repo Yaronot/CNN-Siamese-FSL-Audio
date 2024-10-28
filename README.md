@@ -9,6 +9,4 @@ This project explores the challenges of applying deep metric learning to Out-of-
 
 
 
-Credits:
-deeplake
-activeloop
+Credits: deeplake, activeloop
